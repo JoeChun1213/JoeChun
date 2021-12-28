@@ -30,7 +30,7 @@
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="400"/>
- <img src=images/most_recent_titles_only_output.png?raw=true"
+ <img src="images/most_recent_titles_only_output.png?raw=true"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/>    
