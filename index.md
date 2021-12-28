@@ -8,12 +8,12 @@
 <img src="images/Dashboard.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Brain Dynamics Analysis](https://github.com/JoeChun1213/ArtOfVisualization-2)
+<img src="images/Brain.gif?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bike Analytics]()
+<img src="images/?raw=true"/>
 
 ---
 
