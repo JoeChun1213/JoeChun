@@ -4,8 +4,8 @@
 
 ### R and Tableau Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Electric Vehicle Analytics](https://github.com/JoeChun1213/Tableau---Electric-Vehicle-)
+<img src="images/Dashboard_EV.gif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
