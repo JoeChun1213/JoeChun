@@ -5,7 +5,7 @@
 ### R and Tableau Projects
 
 [Electric Vehicle Analytics](https://github.com/JoeChun1213/Tableau---Electric-Vehicle-)
-<img src="images/Dashboard_EV.gif?raw=true"/>
+<img src="images/Dashboard.gif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
