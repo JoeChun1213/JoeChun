@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### R and Tableau Projects
+## R and Tableau Projects
 
 [Electric Vehicle Analytics](https://github.com/JoeChun1213/Tableau---Electric-Vehicle-)
 <img src="images/Dashboard.gif?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Python Data Science Projects
+## Python Data Science Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
