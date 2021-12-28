@@ -15,19 +15,33 @@
 [Bike Analytics](https://github.com/JoeChun1213/ArtOfVisualization-2)
 <img src="images/Bike.gif?raw=true"/>
 
+## R Data Cleaning (Tidyverse)
+
+[Basic Data Cleaning](https://github.com/JoeChun1213/DataCleaning-dplyr-)
+
+
 ---
 
 ## SQL
 
-[]()
-[]()
+[SQL PewlettHackard](https://github.com/JoeChun1213/SQL_PewlettHackardAnalysis)
+
+<img src="images/most_recent_titles_only.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="400"/> <img src=images/most_recent_titles_only_output.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 40px;"
+     width="332"/>    
+
+[SQL-Python Interface](https://github.com/JoeChun1213/DataCleaning-dplyr-)
 
 
 ## Python Data Science Projects
 
-[Project 1 Title](http://example.com/)
-[Project 2 Title](http://example.com/)
-[Project 3 Title](http://example.com/)
+ []()
+ []()
+ []()
  
 
 --- 
