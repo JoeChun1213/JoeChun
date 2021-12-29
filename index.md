@@ -50,6 +50,7 @@
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/> 
+     
  [Exploratory Data Analysis: How city type affects the ride fare and drivers mind?](https://github.com/JoeChun1213/ExploratoryDataAnalysis-1)
  
  <img src="https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig1.png?raw=true"
@@ -59,9 +60,5 @@
  <img src="images/Drivers.png?raw=true"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="332"/> 
- 
- 
- []()
-
+     width="332"/>  
 --- 
