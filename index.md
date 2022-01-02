@@ -40,9 +40,9 @@
 
 ## Python Data Science Projects
 
- [Exploratory Data Analysis: How to write projects to get funded 100%? ](https://github.com/JoeChun1213/ExploratoryDataAnalysis-2)
+ [Exploratory Data Analysis: How to write projects to get funded 100%?](https://github.com/JoeChun1213/ExploratoryDataAnalysis-2)
  
- <img src="images/LaunchedHour.png?raw=true"
+ <img src="images/LaunchedHour.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="400"/>
