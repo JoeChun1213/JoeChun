@@ -60,7 +60,20 @@
  <img src="images/Drivers.png?raw=true"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="332"/>  
+     width="332"/> 
+     
+ .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+ 
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}     
      
   <div class="row">
   <div class="column">
