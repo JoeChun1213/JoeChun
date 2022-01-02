@@ -25,15 +25,8 @@
 ## SQL
 
 [SQL PewlettHackard: How to query efficiently?](https://github.com/JoeChun1213/SQL_PewlettHackardAnalysis)
-
-<img src="images/most_recent_titles_only.png?raw=true"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="400"/>
- <img src="images/most_recent_titles_only_output.png?raw=true"
-     alt="Home Screen"
-     style="float: left; margin-right: 20px;"
-     width="332"/>     
+<img src="images/SQL1.png?raw=true"/>
+   
 
 [SQL-Python Interface: Painless SQL inferface through python](https://github.com/JoeChun1213/DataCleaning-dplyr-)
 
