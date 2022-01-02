@@ -1,4 +1,4 @@
-## Joe Chun Portfolio (https://joechun1213.github.io/JoeChun/) 
+## [My Portfolio](https://joechun1213.github.io/JoeChun/)
 
 I am aspiring to be a junior data analytist aiming to .
 
