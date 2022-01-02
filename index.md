@@ -33,26 +33,12 @@
 
 ## Python Data Science Projects
 
- [Exploratory Data Analysis: How to write projects to get funded 100%?](https://github.com/JoeChun1213/ExploratoryDataAnalysis-2)
+[Exploratory Data Analysis: How to write projects to get funded 100%?](https://github.com/JoeChun1213/ExploratoryDataAnalysis-2)
  
- <img src="images/LaunchedHour.png"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="400"/>
- <img src="images/ProjectWeeks.png?raw=true"
-     alt="Home Screen"
-     style="float: left; margin-right: 20px;"
-     width="332"/> 
+ <img src="images/Python1.png?raw=true"/> 
      
  [Exploratory Data Analysis: How city type affects the ride fare and drivers mind?](https://github.com/JoeChun1213/ExploratoryDataAnalysis-1)
  
- <img src="https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig1.png?raw=true"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="400"/>
- <img src="images/Drivers.png?raw=true"
-     alt="Home Screen"
-     style="float: left; margin-right: 20px;"
-     width="332"/> 
+ <img src="images/Python2.png?raw=true"/> 
  
 --- 
