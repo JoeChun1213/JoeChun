@@ -42,11 +42,11 @@
 
  [Exploratory Data Analysis: How to write projects to get funded 100%? ](https://github.com/JoeChun1213/ExploratoryDataAnalysis-2)
  
- <img src="images/LaunchedHour?raw=true"
+ <img src="images/LaunchedHour.png?raw=true"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="400"/>
- <img src="images/ProjectWeeks?raw=true"
+ <img src="images/ProjectWeeks.png?raw=true"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/> 
