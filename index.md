@@ -61,4 +61,13 @@
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/>  
+     
+  <div class="row">
+  <div class="column">
+    <img src="images/LaunchedHour.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/ProjectWeeks.jpg" alt="Forest" style="width:100%">
+  </div> 
+</div>     
 --- 
