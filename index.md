@@ -32,7 +32,7 @@
      width="400"/>
  <img src="images/most_recent_titles_only_output.png?raw=true"
      alt="Home Screen"
-     style="float: left; margin-right: 40px;"
+     style="float: left; margin-right: 20px;"
      width="332"/>     
 
 [SQL-Python Interface: Painless SQL inferface through python](https://github.com/JoeChun1213/DataCleaning-dplyr-)
@@ -48,7 +48,7 @@
      width="400"/>
  <img src="images/ProjectWeeks.png?raw=true"
      alt="Home Screen"
-     style="float: left; margin-right: 40px;"
+     style="float: left; margin-right: 20px;"
      width="332"/> 
      
  [Exploratory Data Analysis: How city type affects the ride fare and drivers mind?](https://github.com/JoeChun1213/ExploratoryDataAnalysis-1)
@@ -59,34 +59,7 @@
      width="400"/>
  <img src="images/Drivers.png?raw=true"
      alt="Home Screen"
-     style="float: left; margin-right: 40px;"
+     style="float: left; margin-right: 20px;"
      width="332"/> 
-    <style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
  
-     
-  <div class="row">
-  <div class="column">
-    <img src="images/Drivers.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/ProjectWeeks.jpg" alt="Forest" style="width:100%">
-  </div> 
-</div>     
 --- 
