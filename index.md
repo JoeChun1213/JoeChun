@@ -4,8 +4,13 @@
 
 ## R and Tableau Projects
 
-[Electric Vehicle Analytics: What factors EV customers prefer?](https://github.com/JoeChun1213/Tableau---Electric-Vehicle-)
+[Electric Vehicle Analysis: What factors EV customers prefer?](https://github.com/JoeChun1213/Tableau---Electric-Vehicle-)
 <img src="images/Dashboard.gif?raw=true"/>
+
+---
+[Airbnb Vacation Rental Analysis - What influences profit?](https://github.com/JoeChun1213/R-Tableau-Airbnb_Vacation_Rental)
+<img src="images/Airbnb_Visualization.png?raw=true"/>
+
 
 ---
 [Brain Dynamics Analysis: How brain regions communicate?](https://github.com/JoeChun1213/ArtOfVisualization-2)
