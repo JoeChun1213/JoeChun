@@ -1,5 +1,5 @@
 ## [My Portfolio](https://joechun1213.github.io/JoeChun/)
 
-I am aspiring to be a junior data analyst.
+Data Analyst, Marketing Data Analyst, Business Insight Analyst
 
 <img src="images/front.gif?raw=true"/> 
